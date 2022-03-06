@@ -1,6 +1,6 @@
 - Hi, I’m Angel.
-- I’m interested in dont never stop learning.
+- I’m interested in don´t never stop learning.
 - I’m currently learning fullstacks development skills!💯.
 <!---
-This is my repository!.
+I hope you enjoy the code!.
 --->
